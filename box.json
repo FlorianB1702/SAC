@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://try.gogs.io/armando.j.a.santos/SAPCustomWidget/src/master/box/box.js",
+			"url": "https://github.com/FlorianB1702/SAC/blob/main/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://try.gogs.io/armando.j.a.santos/SAPCustomWidget/src/master/box/box_sps.js",
+			"url": "https://github.com/FlorianB1702/SAC/blob/main/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://try.gogs.io/armando.j.a.santos/SAPCustomWidget/src/master/box/box_bps.js",
+			"url": "https://github.com/FlorianB1702/SAC/blob/main/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
